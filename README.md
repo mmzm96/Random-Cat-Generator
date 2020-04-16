@@ -1,6 +1,6 @@
 # Random-Cat-Generator
-Using this website, you can generate cat animation randomly. 
-Here i use an API.
-Language uses: HTML,Javascript.
-For design: CSS, Bootsrap
-API link: https://api.thecatapi.com/api/
+Using this website, you can generate cat animation randomly.<br/> 
+Here i use an API.<br/> 
+Language uses: HTML,Javascript.<br/> 
+For design: CSS, Bootsrap<br/> 
+API link: https://api.thecatapi.com/api/<br/> 
